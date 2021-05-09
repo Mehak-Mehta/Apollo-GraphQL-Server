@@ -1,2 +1,2 @@
-# Apollo-Graphql-Server
-Apollo graphql server with express and react
+<h1 > Apollo graphql server</h1>
+<strong> Apollo graphql server with express and mongoDb</strong>
