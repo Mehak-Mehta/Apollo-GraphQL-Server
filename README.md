@@ -2,7 +2,7 @@
 <strong> Apollo graphql server with express and mongoDb</strong>
 
 #  How to run locally?
-Click <a href="http://localhost:4000/graphql"> Here</a> to run locally
+Click <a href="http://localhost:4000/graphql"> Here</a> to run locally or Clone this repository
 
 # Split
 - Apollo-graphql = CLIENT
