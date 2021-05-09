@@ -10,4 +10,4 @@ Click <a href="http://localhost:4000/graphql"> Here</a> to run locally
 - MongoDB = DATABASE
 
 # Author 
-Made and owned by 
+Made and owned by <a href="https://github.com/Mehak-Mehta"> Mehak</a>
