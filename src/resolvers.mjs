@@ -1,4 +1,4 @@
-import {Cat} from './models/Cat.mjs'
+import { Cat } from './models/Cat.mjs'
 
 export const resolvers = {
     Query: {
@@ -11,10 +11,10 @@ export const resolvers = {
             await kitty.save()
             console.log(kitty)
             return kitty 
-
-
         }
 
     }
 
 }
+
+// cats everywhere
