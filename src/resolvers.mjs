@@ -12,9 +12,5 @@ export const resolvers = {
             console.log(kitty)
             return kitty 
         }
-
     }
-
 }
-
-// cats everywhere
