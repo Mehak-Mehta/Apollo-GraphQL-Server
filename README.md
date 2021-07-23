@@ -9,8 +9,3 @@ Click <a href="http://localhost:4000/graphql"> Here</a> to run locally or Clone 
 - Express-graphql = SERVER
 - MongoDB = DATABASE
 
-# Author 
-Made and owned by <a href="https://github.com/Mehak-Mehta"> Mehak</a>
-
-# Note 
-The project is up and running
