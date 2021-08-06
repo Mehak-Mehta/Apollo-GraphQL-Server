@@ -12,6 +12,7 @@ type Cat {
     id :ID!
     name : String!
 }
+
 type Mutation{
     createCat(name: String!) : Cat!
 }
